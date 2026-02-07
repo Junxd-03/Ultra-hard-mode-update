@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/ultra-hard-mode-update/refs/heads/main/ultra-hard-mode"))()
